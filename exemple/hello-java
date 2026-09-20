@@ -1,1 +1,1 @@
-
+<%= "Bonjour depuis Tomcat, Java " + System.getProperty("java.version") %>
