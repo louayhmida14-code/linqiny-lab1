@@ -46,6 +46,3 @@ Résultat visible sur http://localhost:8080/hello
 ## Résultat
 
 ![Exemple Java sur Tomcat](tomcat-hello.png)
-## Remarque
-
-CentOS 7 n'est plus maintenu : le script redirige les dépôts yum vers vault.centos.org.
